@@ -24,3 +24,12 @@ In the second part of the smart contract, we are trying to minimize the coding w
 "bool" is the code we use to put true or false in it, "int" is the code we use to put numbers, and when we use "int" the numbers can be negative or positive. "uint" also is the code we use for numbers but in "uint" we cant use negative. We can put how many bites should use in uint as "uint256" 
 
 ![Supply Image](Images/four.gif)
+
+#### What is enum? 
+"Within your smart contract, Solidity will automatically handle converting names to ints for you. If you declare an enum like: enum Colors {Red, Orange, Yellow, Green, Blue, Purple} then elsewhere in the contract you could refer to Colors.Red and not have to worry about it actually being a 0 in memory." So, it is basically red = 0, Orange = 1, Yellow = 2 .. etc.. (https://ethereum.stackexchange.com/questions/57775/enum-in-solidity-vs-const)
+
+### Scenario:
+Let's see someone go to the lavatory on an airplane, and someone is using that. So, you have to wait till the room is ready. We can use blockchain to work on this door. 
+
+![image](https://user-images.githubusercontent.com/71329902/115792794-be12a880-a37f-11eb-8bd0-071608f83903.png)
+
