@@ -12,3 +12,5 @@ Eterium has developed new virsion of solidity, so new versions last contracts ca
 ![Supply Image](Images/one.gif)
 
 The error says it missing "memory" to run return. Following video shows how to solve that error!
+
+![Supply Image](Images/two.gif)
