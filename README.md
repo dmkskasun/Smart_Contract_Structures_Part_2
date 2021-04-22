@@ -35,3 +35,6 @@ Let's see someone go to the lavatory on an airplane, and someone is using that. 
 
 ![Supply Image](Images/six.gif)
 
+Also, we can add another function when it is cleaning,
+
+![Supply Image](Images/seven.gif)
