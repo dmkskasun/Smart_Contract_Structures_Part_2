@@ -19,6 +19,8 @@ In the second part of the smart contract, we are trying to minimize the coding w
 
 ![Supply Image](Images/three.gif)
 
-####How to add bool, init, and uint? 
+#### How to add bool, init, and uint? 
 
 "bool" is the code we use to put true or false in it, "int" is the code we use to put numbers, and when we use "int" the numbers can be negative or positive. "uint" also is the code we use for numbers but in "uint" we cant use negative. We can put how many bites should use in uint as "uint256" 
+
+![Supply Image](Images/four.gif)
