@@ -11,4 +11,4 @@ Eterium has developed new virsion of solidity, so new versions last contracts ca
 
 ![Supply Image](Images/one.gif)
 
-In the Second part of smart contracts 
+The error says it missing "memory" to run return. Following video shows how to solve that error!
