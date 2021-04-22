@@ -7,4 +7,8 @@ pending ......
 
 The Smart_Contract_Structures_Part_1 we learned how to create two functions which is "set" function and "get" function, also we learned about constructor fuction.
 
+Eterium has developed new virsion of solidity, so new versions last contracts can given a problem as below.
+
+![Supply Image](Images/one.gif)
+
 In the Second part of smart contracts 
