@@ -16,3 +16,5 @@ The error says it missing "memory" to run return. Following video shows how to s
 ![Supply Image](Images/two.gif)
 
 In the second part of the smart contract, we are trying to minimize the coding we have to use. In newer versions, the get function already comes with if we make the string value public. In order to do that, we can put " string public value." Also, we can make the constructor default. So, you can see below that code also given the same thing as part I. 
+
+![Supply Image](Images/three.gif)
