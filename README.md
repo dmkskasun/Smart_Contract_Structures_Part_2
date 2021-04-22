@@ -26,5 +26,4 @@ In the second part of the smart contract, we are trying to minimize the coding w
 ![Supply Image](Images/four.gif)
 
 #### What is enum? 
-"Within your smart contract, Solidity will automatically handle converting names to ints for you. If you declare an enum like: enum Colors {Red, Orange, Yellow, Green, Blue, Purple} then elsewhere in the contract you could refer to Colors.Red and not have to worry about it actually being a 0 in memory." So, it is basically red = 0, Orange = 1, Yellow = 2 .. etc..
-go ethereum - Enum in Solidity VS CONST - Ethereum Stack Exchange
+"Within your smart contract, Solidity will automatically handle converting names to ints for you. If you declare an enum like: enum Colors {Red, Orange, Yellow, Green, Blue, Purple} then elsewhere in the contract you could refer to Colors.Red and not have to worry about it actually being a 0 in memory." So, it is basically red = 0, Orange = 1, Yellow = 2 .. etc.. (https://ethereum.stackexchange.com/questions/57775/enum-in-solidity-vs-const)
